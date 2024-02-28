@@ -1,1 +1,1 @@
-# QHack2024-in-person-hackathon
+# QHack2024 Coding challenges
